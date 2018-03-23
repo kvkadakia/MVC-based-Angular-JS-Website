@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="steeroWeb:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="steeroWeb.war">
+      <element id="artifact" artifact-name="steeroWeb:war exploded" />
+    </root>
+  </artifact>
+</component>

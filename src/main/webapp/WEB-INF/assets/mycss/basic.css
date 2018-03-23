@@ -1,0 +1,17 @@
+
+.b-step {
+    display: block;
+    width: 34px;
+    height: 34px;
+    border-radius: 80px;
+    border: 1px solid #E2E2E2;
+    /*padding-bottom: 40px;*/
+
+    position: absolute;
+    top: 7px;
+    left: 10px;
+    font-size: 13px;
+    text-align: center;
+    padding-top: 1px;
+    color: #4a4a4a;
+}
